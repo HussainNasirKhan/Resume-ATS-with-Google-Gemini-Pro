@@ -1,5 +1,7 @@
 **The App is available at:** https://resume-ats-with-app-gemini-pro.streamlit.app/
 
+https://github.com/HussainNasirKhan/Resume-ATS-with-Google-Gemini-Pro/assets/60567438/1eb86285-09b2-4254-8b8a-78f4a44f4fd0
+
 # Resume-ATS-with-Google-Gemini-Pro
 
 🚀 Resume ATS with Google Gemini Pro &amp; Streamlit - Simplify job applications! Integrate Google Gemini Pro for advanced tracking and leverage a user-friendly Streamlit frontend. PDF resume upload and effortless job matching. 🌟
