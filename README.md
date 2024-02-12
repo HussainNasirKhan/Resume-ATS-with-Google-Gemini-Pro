@@ -20,7 +20,7 @@ https://github.com/HussainNasirKhan/Resume-ATS-with-Google-Gemini-Pro/assets/605
 - Leverage the power of Google Gemini Pro for efficient job matching.
 
 
-Tech Stack::
+Tech Stack:
 - Google Gemini Pro
 - Streamlit
 
